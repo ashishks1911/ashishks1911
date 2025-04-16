@@ -1,39 +1,58 @@
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=800000&vCenter=true&multiline=true&random=true&width=435&lines=Hi%F0%9F%91%8B!+I'm+Ashish+Kumar" alt="Typing SVG" /></a></h3>
 
-<!--
-**ashishks1911/ashishks1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Backend Developer | Spring Boot | React Enthusiast</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashishks1911&label=Profile%20views&color=0e75b6&style=flat" alt="ashishks1911" /> </p>
-
-- 📫 How to reach me
-  **ashishks1911@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ashishks1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ashishks1911" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashishks1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashishks1911" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishks1911/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ashishks1911/"><img alt="Static Badge" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/Ashishks1911"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ashishks1911@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<hr>
+<details open>
+  <summary><h3>✨ About me</h3></summary>
+  
+- 💻 Passionate about building scalable backend systems with **Java & Spring Boot**
+- 🔄 Love integrating robust APIs with modern UIs using **ReactJS**
+- 🛠️ Comfortable working with **MySQL, MongoDB, JPA, Docker, API Integration**, and more
+- 📚 Currently exploring **System Design** and scalable backend architectures
 
-## STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishks1911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishks1911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ashishks1911&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</details>
 
-###
+<details open>
+  <summary><h3>✨ Languages and Tools</h3></summary>
+ <p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,js,c,html,spring,react,redux,html,css"/>
+  </a>
+</p>
+<p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,postman,maven,gradle,githubactions,docker,aws,vscode"/>
+  </a>
+</p>
+</details>
+
+<details open>
+  <summary><h3>✨ GitHub profile Trophies</h3></summary>
+  <p> <a href="https://github-profile-trophy.vercel.app/?username=ashishks1911&margin-w=20&margin-h=15&row=2&column=4&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=ashishks1911&margin-w=20&margin-h=15&row=2&column=4&theme=nord" alt="ashish kumar" /></a> </p>
+</details>
+
+<details open>
+  <summary><h3>✨ GitHub Stats</h3><br></summary>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishks1911&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ashish kumar" height="155em"/> &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishks1911&show_icons=true&locale=en&theme=transparent" alt="ashish kumar" height="155em"/>
+  </p>
+  
+  <p><img align="center" src="https://streak-stats.demolab.com?user=ashishks1911&theme=transparent" alt="ashish kumar" height="155em"/></p>
+</details>
+
+
+<details open>
+  <summary><h3>🤝 Let's Connect!</h3></summary>
+  <p>I'm open to full-time opportunities in backend or full-stack roles — especially in fast-moving startup environments. Reach out and let's build something impactful! 💬</p>
+</details>
+
