@@ -4,10 +4,11 @@
 
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1FYvrpqHWrK4SX0i3tQ0v5XQo6G0cHsPu/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashishks1911/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ashishks1911/"><img alt="Static Badge" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/Ashishks1911"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ashishks1911@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:ashishdev247@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
 <hr>
